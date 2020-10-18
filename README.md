@@ -8,7 +8,7 @@ The last working version of FVTT that is supported by the module is 0.66.
 A module for FVTT to teleport tokens between two points
 
 ### Instalation
-Manifest: https://raw.githubusercontent.com/knassher/FVTT-Teleport/master/module.json
+Manifest: https://raw.githubusercontent.com/mascent/FVTT-Teleport/master/module.json
 
 ### Features
 * TP config sheet has a new tap called Offsets in which the user can save offsets (as many as you want) for the token when they teleported to that TP. To use this feature just controlle a token or tokens an move it/them to the desire possition, then hit the capture button.
